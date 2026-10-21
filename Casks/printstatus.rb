@@ -1,6 +1,6 @@
 cask "printstatus" do
-  version "1.3.1"
-  sha256 "390ab822183e091934e00a9f16fbf15b6c426ef0d58b79db3db9642b08c7a1e5"
+  version "1.3.2"
+  sha256 "a824b7b68407c1685efb6502c488bff885e93463c181ce38b0ef762545320500"
 
   url "https://github.com/awscyy/printstatus/releases/download/v#{version}/PrintStatus-#{version}.zip"
   name "PrintStatus"
